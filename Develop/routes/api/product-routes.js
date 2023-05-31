@@ -117,7 +117,7 @@ router.delete('/:id', async (req, res) => {
       where: {id: req.params.id}
     })
     if (!myProduct) {
-      res.status(404).json(Message: "This id does not return a product" )
+      res.status(404).json({message: "This id does not return a product" })
       return
     }
     res.status(200).json(myProduct)
