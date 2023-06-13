@@ -34,6 +34,7 @@ Product.init(
       validate: {
         isNumeric: true,
       },
+    },
       categoty_id: {
         type: DataTypes.INTEGER,
         references: {
@@ -42,7 +43,6 @@ Product.init(
         },
       },
     },
-  },
   {
     sequelize,
     timestamps: false,
