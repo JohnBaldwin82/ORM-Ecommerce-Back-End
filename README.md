@@ -52,9 +52,9 @@
 
 
 
-  ## Emaill Address:
+  ## Email:
   johnbaldwin82@gmail.com
 
-  ## GitHub Username:
+  ## Username:
   https://github.com/JohnBaldwin82
 
