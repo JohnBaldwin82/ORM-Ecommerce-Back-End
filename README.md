@@ -40,6 +40,18 @@
 [Get Routes.webm](https://github.com/JohnBaldwin82/ORM-Ecommerce-Back-End/assets/124854286/be06fed1-144d-43d4-98cd-f7b4a614fdcb)
 
 
+
+[Post Routes.webm](https://github.com/JohnBaldwin82/ORM-Ecommerce-Back-End/assets/124854286/ee1d770d-e978-40b2-92ab-7a966aa97283)
+
+
+[Put Routes.webm](https://github.com/JohnBaldwin82/ORM-Ecommerce-Back-End/assets/124854286/85f7de0b-190f-4799-90ea-45fbecaa8484)
+
+
+[Delete Routes.webm](https://github.com/JohnBaldwin82/ORM-Ecommerce-Back-End/assets/124854286/3d4ed854-0fab-46f0-9ecf-42e2ad76d4cf)
+
+
+
+
   ## Emaill Address:
   johnbaldwin82@gmail.com
 
