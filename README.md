@@ -35,6 +35,8 @@
 
   ## Video:
 [mysql, npm run seed, npm start.webm](https://github.com/JohnBaldwin82/ORM-Ecommerce-Back-End/assets/124854286/f759faae-4cc2-4787-a3eb-558bc8b665e0)
+
+
 [Get Routes.webm](https://github.com/JohnBaldwin82/ORM-Ecommerce-Back-End/assets/124854286/be06fed1-144d-43d4-98cd-f7b4a614fdcb)
 
 
